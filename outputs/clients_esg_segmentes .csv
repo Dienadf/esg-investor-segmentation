@@ -1,0 +1,201 @@
+Type_Investisseur,Pays,Encours_Millions,Profil_Risque,Segment_Marketing,Score_ESG,Profil_Segment,NPS,Fidelite_Score,Churn,Upsell_Potentiel
+Institutionnel,Espagne,162.45,Équilibré,Premium,0.36558243562325593,À potentiel latent,-82,0.11,0,0.61
+Family Office,Italie,117.88,Équilibré,Premium,0.4840196687946702,Clients à convaincre,13,0.63,0,0.52
+Particulier,France,10.89,Dynamique,Core,0.7223574926659405,Champions ESG,-93,0.77,1,0.74
+Particulier,Espagne,3.59,Équilibré,Premium,0.5687783007242633,Champions ESG,-75,0.0,1,0.63
+Institutionnel,Espagne,5.31,Équilibré,Core,0.46850193587368727,Champions ESG,12,0.86,1,0.55
+Institutionnel,Italie,0.92,Équilibré,Premium,0.5381772139319304,À potentiel latent,-30,0.19,0,0.69
+Institutionnel,France,4.96,Équilibré,Core,0.4568540542044632,Clients à convaincre,-71,0.55,0,0.14
+Family Office,Italie,57.44,Équilibré,Core,0.5127965225825429,À potentiel latent,34,0.42,0,0.6
+Particulier,France,3.69,Dynamique,Premium,0.35128607601981193,Clients à convaincre,-34,0.72,0,0.17
+Particulier,Pays-Bas,19.21,Dynamique,Core,0.393604239046612,Champions ESG,-36,0.37,1,0.93
+Institutionnel,Allemagne,93.18,Prudent,Core,0.380600605805236,Clients à convaincre,-65,0.87,0,0.07
+Family Office,Allemagne,1.18,Dynamique,Premium,0.5230604890963008,Clients à convaincre,-76,0.73,0,0.43
+Family Office,Allemagne,84.23,Équilibré,Premium,0.5158908000286208,Clients à convaincre,-64,0.65,0,0.7
+Institutionnel,Italie,16.55,Prudent,Premium,0.3052347654293505,Clients à convaincre,-100,0.8,0,0.46
+Institutionnel,Pays-Bas,6.29,Équilibré,Premium,0.40435616498254934,Clients à convaincre,42,0.75,0,0.09
+Institutionnel,France,59.66,Dynamique,Core,0.621533633320878,À potentiel latent,-64,0.04,0,0.55
+Institutionnel,Espagne,49.57,Équilibré,Core,0.43069249024112954,À potentiel latent,40,0.39,0,0.64
+Particulier,France,104.97,Équilibré,Core,0.5221821390807979,Clients à convaincre,35,0.93,0,0.7
+Particulier,Espagne,66.41,Équilibré,Core,0.5716849773021792,À potentiel latent,32,0.13,0,0.37
+Institutionnel,France,81.35,Prudent,Stratégique,0.3508509735019836,Clients à convaincre,87,0.74,0,0.56
+Particulier,Pays-Bas,16.57,Prudent,Core,0.4040919877884928,Clients à convaincre,27,0.97,0,0.45
+Institutionnel,Espagne,9.77,Prudent,Core,0.46993420812033415,Champions ESG,26,0.05,1,0.67
+Institutionnel,Italie,69.44,Prudent,Core,0.2614259677380886,Clients à convaincre,-100,0.68,0,0.58
+Institutionnel,France,82.21,Prudent,Stratégique,0.37160233099862455,À potentiel latent,63,0.47,0,0.53
+Particulier,France,232.85,Prudent,Core,0.609767277772036,Clients à convaincre,-66,0.58,0,0.25
+Particulier,Espagne,26.6,Équilibré,Core,0.5508282836313334,À potentiel latent,93,0.09,0,0.0
+Institutionnel,Italie,23.26,Prudent,Core,0.33128340872772954,Champions ESG,90,0.04,1,0.17
+Particulier,Italie,74.9,Équilibré,Premium,0.5092080130065271,Clients à convaincre,3,0.67,0,0.12
+Particulier,Pays-Bas,20.84,Dynamique,Core,0.2556038216611148,Clients à convaincre,-78,0.82,0,0.45
+Institutionnel,Italie,133.51,Équilibré,Premium,0.22229409777155895,Clients à convaincre,-92,0.78,0,0.61
+Particulier,Italie,97.74,Équilibré,Stratégique,0.603146665288632,Clients à convaincre,-67,0.54,0,0.21
+Institutionnel,Italie,28.02,Prudent,Core,0.26787717338591066,À potentiel latent,73,0.1,0,0.94
+Institutionnel,Allemagne,69.49,Prudent,Premium,0.6334918987462534,Clients à convaincre,27,0.69,0,0.01
+Family Office,Pays-Bas,70.23,Prudent,Stratégique,0.6682038948029543,À potentiel latent,-97,0.24,0,0.77
+Family Office,France,5.44,Prudent,Premium,0.42385883624973164,Clients à convaincre,57,0.91,0,0.63
+Family Office,Espagne,116.42,Prudent,Core,0.5092255710231112,Clients à convaincre,1,0.84,0,0.37
+Institutionnel,France,35.19,Prudent,Core,0.5899777791911466,Champions ESG,-26,0.71,1,0.05
+Institutionnel,Pays-Bas,87.57,Prudent,Premium,0.5631732547323566,Clients à convaincre,-2,0.95,0,0.63
+Particulier,Espagne,19.29,Prudent,Core,0.6107219854829348,À potentiel latent,-29,0.03,0,0.39
+Particulier,Pays-Bas,112.94,Équilibré,Premium,0.40333951726385914,Clients à convaincre,-98,0.74,0,0.94
+Institutionnel,Italie,24.65,Prudent,Stratégique,0.6847338034551569,À potentiel latent,41,0.33,0,0.54
+Particulier,Espagne,0.54,Équilibré,Stratégique,0.3443538196735647,Clients à convaincre,87,0.91,0,0.94
+Institutionnel,Italie,117.9,Équilibré,Core,0.36479579116414773,À potentiel latent,72,0.27,0,0.22
+Family Office,France,4.79,Équilibré,Core,0.44867476129524664,Clients à convaincre,-67,0.72,0,0.73
+Institutionnel,France,19.23,Prudent,Stratégique,0.4395567485272255,Clients à convaincre,-56,0.88,0,0.62
+Particulier,Espagne,149.85,Équilibré,Premium,0.47895780033867846,À potentiel latent,-40,0.04,0,0.74
+Institutionnel,Espagne,150.4,Équilibré,Core,0.5217213852428387,À potentiel latent,-18,0.4,0,0.21
+Particulier,Pays-Bas,42.6,Prudent,Stratégique,0.34482527448065314,Clients à convaincre,22,0.76,0,0.66
+Particulier,Pays-Bas,49.96,Dynamique,Premium,0.5950354062154662,À potentiel latent,1,0.45,0,0.5
+Institutionnel,Italie,29.75,Dynamique,Core,0.5019838650692064,Champions ESG,-85,0.27,1,0.74
+Family Office,Espagne,17.35,Prudent,Core,0.5743762153868169,À potentiel latent,-35,0.22,0,0.33
+Particulier,France,19.92,Prudent,Core,0.5612857063355143,À potentiel latent,67,0.13,0,0.89
+Family Office,Pays-Bas,55.82,Dynamique,Core,0.8392393089686204,Clients à convaincre,44,0.86,0,0.08
+Family Office,Pays-Bas,69.79,Équilibré,Core,0.2925600438851037,À potentiel latent,18,0.58,0,0.81
+Particulier,France,78.41,Prudent,Premium,0.4945008268207945,À potentiel latent,61,0.08,0,0.86
+Family Office,Pays-Bas,77.94,Prudent,Core,0.41814511499964224,À potentiel latent,23,0.38,0,0.82
+Institutionnel,Italie,4.78,Équilibré,Core,0.6386302799265401,À potentiel latent,43,0.37,0,0.51
+Institutionnel,Espagne,34.1,Équilibré,Core,0.5600718380067259,À potentiel latent,1,0.18,0,0.44
+Institutionnel,France,2.96,Équilibré,Core,0.6343236526398638,À potentiel latent,87,0.44,0,1.0
+Institutionnel,Espagne,39.87,Équilibré,Stratégique,0.4061258794908692,À potentiel latent,-35,0.33,0,0.23
+Institutionnel,Pays-Bas,29.13,Équilibré,Core,0.4655658594563653,À potentiel latent,93,0.34,0,0.55
+Institutionnel,Pays-Bas,109.33,Équilibré,Core,0.741996796069421,Champions ESG,-88,0.74,1,0.67
+Family Office,France,21.61,Prudent,Premium,0.3175672070152564,À potentiel latent,83,0.22,0,0.7
+Institutionnel,Italie,6.23,Prudent,Core,0.488314835868122,Clients à convaincre,10,0.64,0,0.2
+Institutionnel,Allemagne,7.72,Équilibré,Core,0.39632498429835505,À potentiel latent,58,0.57,0,0.65
+Particulier,France,71.67,Dynamique,Core,0.689671831646566,À potentiel latent,-67,0.57,0,0.82
+Institutionnel,Allemagne,48.15,Équilibré,Core,0.45945803884467695,Clients à convaincre,-62,0.66,0,0.05
+Family Office,Allemagne,5.33,Équilibré,Core,0.4125339950549757,À potentiel latent,94,0.55,0,0.91
+Institutionnel,Italie,4.39,Prudent,Core,0.39769559876930904,Clients à convaincre,35,0.88,0,0.03
+Family Office,Allemagne,60.36,Équilibré,Core,0.559000755268995,Clients à convaincre,19,0.68,0,0.36
+Particulier,Allemagne,3.78,Équilibré,Stratégique,0.6195547888029383,Champions ESG,25,0.55,1,0.02
+Institutionnel,Italie,86.26,Prudent,Core,0.5832547681324185,Clients à convaincre,-46,0.83,0,0.08
+Institutionnel,Allemagne,61.25,Prudent,Core,0.45444008729319546,À potentiel latent,-74,0.61,0,0.91
+Family Office,Allemagne,4.24,Équilibré,Premium,0.4912940301948594,À potentiel latent,17,0.29,0,0.35
+Particulier,Allemagne,4.43,Prudent,Core,0.6080317530985904,À potentiel latent,-48,0.21,0,0.42
+Particulier,France,215.77,Équilibré,Premium,0.7912127553007958,À potentiel latent,-62,0.15,0,0.22
+Particulier,France,23.44,Prudent,Core,0.41765067218940555,Champions ESG,-36,0.9,1,0.6
+Institutionnel,France,23.15,Équilibré,Stratégique,0.5602362004404411,Clients à convaincre,44,0.71,0,0.59
+Institutionnel,Italie,83.78,Prudent,Core,0.5289064539723174,Clients à convaincre,57,0.94,0,0.37
+Institutionnel,Pays-Bas,147.11,Dynamique,Core,0.34212683748996287,Clients à convaincre,80,0.6,0,0.33
+Family Office,Allemagne,213.44,Équilibré,Core,0.34230361416089616,À potentiel latent,-88,0.47,0,0.88
+Particulier,Allemagne,69.99,Équilibré,Stratégique,0.3162755102040816,À potentiel latent,-80,0.06,0,0.38
+Institutionnel,Italie,23.6,Équilibré,Core,0.6138632486107025,Clients à convaincre,46,0.67,0,0.49
+Institutionnel,Allemagne,4.36,Équilibré,Core,0.18593702646621563,Clients à convaincre,-48,0.58,0,0.28
+Institutionnel,France,75.06,Prudent,Core,0.7277985419333296,Clients à convaincre,-82,0.99,0,0.79
+Institutionnel,Pays-Bas,40.87,Équilibré,Premium,0.5381276086593578,À potentiel latent,-44,0.24,0,0.4
+Particulier,Espagne,27.6,Équilibré,Core,0.6934307974845567,À potentiel latent,-76,0.53,0,0.51
+Particulier,Allemagne,118.41,Équilibré,Premium,0.6082591009913899,Clients à convaincre,-70,0.65,0,0.25
+Family Office,France,5.89,Équilibré,Core,0.5751961711837053,À potentiel latent,-20,0.64,0,0.99
+Particulier,Espagne,33.93,Prudent,Core,0.4811780129270251,Clients à convaincre,82,0.56,0,0.29
+Institutionnel,Pays-Bas,0.57,Prudent,Core,0.5487052821128451,Clients à convaincre,-78,0.78,0,0.77
+Particulier,Espagne,31.62,Équilibré,Core,0.2894331507437412,À potentiel latent,-69,0.2,0,0.43
+Particulier,France,2.9,Équilibré,Core,0.44075518949301573,Champions ESG,89,0.73,1,0.21
+Particulier,Espagne,6.32,Équilibré,Core,0.4710910695403989,À potentiel latent,-27,0.62,0,0.8
+Particulier,Italie,6.25,Équilibré,Premium,0.6374846282884015,Clients à convaincre,-91,0.9,0,0.33
+Particulier,Espagne,52.38,Dynamique,Core,0.7339384575022061,Clients à convaincre,99,0.85,0,0.87
+Particulier,Allemagne,68.53,Équilibré,Core,0.3742131448605932,À potentiel latent,-47,0.32,0,0.92
+Particulier,Allemagne,43.78,Prudent,Core,0.31853946479253953,À potentiel latent,-49,0.28,0,0.86
+Institutionnel,Italie,163.74,Prudent,Core,0.5662885087809958,Clients à convaincre,47,0.98,0,0.04
+Institutionnel,France,23.49,Prudent,Core,0.6213430948538355,Champions ESG,59,0.53,1,0.79
+Institutionnel,Allemagne,16.82,Prudent,Core,0.36774766462876546,Clients à convaincre,13,0.91,0,0.41
+Particulier,Pays-Bas,101.48,Prudent,Core,0.41372731609199975,À potentiel latent,-87,0.16,0,0.87
+Institutionnel,Allemagne,12.65,Prudent,Premium,0.565381518170182,Clients à convaincre,77,0.64,0,0.64
+Particulier,Allemagne,165.14,Prudent,Stratégique,0.4467244897959184,Clients à convaincre,55,0.81,0,0.83
+Family Office,France,0.61,Prudent,Core,0.6292363991954397,Clients à convaincre,9,0.95,0,0.5
+Institutionnel,Espagne,175.13,Dynamique,Core,0.4312011837847721,À potentiel latent,-48,0.34,0,0.54
+Particulier,Allemagne,2.21,Prudent,Premium,0.4635298172249033,Clients à convaincre,51,0.72,0,0.14
+Particulier,Italie,110.89,Équilibré,Core,0.35748233068061663,Champions ESG,-22,0.54,1,0.78
+Institutionnel,Espagne,37.51,Équilibré,Core,0.498830915147516,À potentiel latent,-79,0.06,0,0.42
+Institutionnel,Pays-Bas,247.84,Dynamique,Core,0.37242711256688105,Clients à convaincre,-71,0.69,0,0.5
+Institutionnel,France,3.83,Prudent,Premium,0.3312544779501204,Clients à convaincre,90,0.69,0,0.79
+Institutionnel,Pays-Bas,40.36,Équilibré,Premium,0.40480675846497527,Clients à convaincre,-97,0.93,0,0.6
+Family Office,Espagne,174.18,Dynamique,Core,0.5113608516254183,Clients à convaincre,-42,0.5,0,0.2
+Family Office,Espagne,37.02,Dynamique,Core,0.7994360167908222,À potentiel latent,-93,0.23,0,0.59
+Particulier,Espagne,49.63,Dynamique,Core,0.6490065589149566,À potentiel latent,-89,0.04,0,0.41
+Family Office,Pays-Bas,59.5,Prudent,Premium,0.3829178625092421,À potentiel latent,18,0.42,0,0.47
+Family Office,Espagne,30.31,Prudent,Core,0.5194298792364628,À potentiel latent,58,0.3,0,0.03
+Institutionnel,Pays-Bas,49.38,Équilibré,Core,0.7205779477353855,Clients à convaincre,-67,0.76,0,0.21
+Family Office,Espagne,43.89,Dynamique,Premium,0.473983638488508,À potentiel latent,-19,0.35,0,0.28
+Particulier,Italie,115.71,Équilibré,Core,0.40987651351931503,Clients à convaincre,-3,0.95,0,0.71
+Family Office,Espagne,2.33,Équilibré,Premium,0.6559811540510244,Clients à convaincre,26,0.96,0,0.01
+Family Office,Pays-Bas,16.49,Prudent,Core,0.4917528243085314,Clients à convaincre,-26,0.62,0,0.41
+Institutionnel,Allemagne,150.2,Équilibré,Core,0.8202957991143477,Clients à convaincre,4,0.93,0,0.92
+Institutionnel,Espagne,110.48,Prudent,Core,0.3022317721790703,Clients à convaincre,-52,0.76,0,0.11
+Institutionnel,Allemagne,30.41,Équilibré,Premium,0.4895047343440687,Champions ESG,-22,0.55,1,0.52
+Particulier,Italie,48.4,Équilibré,Premium,0.47731655708641063,À potentiel latent,84,0.18,0,0.79
+Family Office,France,16.24,Équilibré,Premium,0.6037242632152199,À potentiel latent,-8,0.46,0,0.94
+Family Office,Italie,10.42,Prudent,Core,0.4012996509862223,À potentiel latent,53,0.56,0,0.75
+Institutionnel,Espagne,31.15,Prudent,Premium,0.31205698703322393,Clients à convaincre,-83,0.86,0,0.72
+Particulier,Allemagne,21.8,Équilibré,Core,0.16325133762114116,À potentiel latent,-5,0.48,0,0.83
+Particulier,Allemagne,43.81,Prudent,Core,0.16389586033088732,Clients à convaincre,-63,0.9,0,0.45
+Institutionnel,Pays-Bas,4.05,Équilibré,Premium,0.3046619376227312,Clients à convaincre,-14,0.67,0,0.81
+Institutionnel,Allemagne,183.25,Prudent,Core,0.3860367338988575,À potentiel latent,-13,0.14,0,0.01
+Institutionnel,Pays-Bas,214.19,Équilibré,Core,0.36189199653371285,Clients à convaincre,-51,0.99,0,0.92
+Family Office,France,59.89,Équilibré,Core,0.44005668095052586,Clients à convaincre,-93,0.53,0,0.44
+Institutionnel,Espagne,38.4,Prudent,Core,0.6639645739090337,À potentiel latent,68,0.39,0,0.55
+Particulier,Pays-Bas,18.52,Équilibré,Core,0.5278712504869497,Clients à convaincre,33,0.66,0,0.25
+Particulier,France,84.05,Prudent,Core,0.5386526756397924,À potentiel latent,-32,0.11,0,0.74
+Institutionnel,Allemagne,57.72,Prudent,Core,0.7313622270100093,Clients à convaincre,71,0.64,0,0.08
+Family Office,Allemagne,8.87,Dynamique,Premium,0.21667379534595296,À potentiel latent,20,0.5,0,0.87
+Family Office,France,120.92,Équilibré,Premium,0.4889098010064953,À potentiel latent,-37,0.41,0,0.83
+Institutionnel,Allemagne,86.45,Dynamique,Core,0.5426583997837545,Champions ESG,56,0.95,1,0.22
+Particulier,France,149.59,Prudent,Core,0.5232168933798685,À potentiel latent,55,0.52,0,0.81
+Institutionnel,Pays-Bas,64.68,Équilibré,Core,0.30291597433675455,Champions ESG,38,0.22,1,0.79
+Institutionnel,Pays-Bas,47.52,Équilibré,Core,0.5044114824737842,À potentiel latent,20,0.46,0,0.63
+Institutionnel,France,27.09,Équilibré,Core,0.21351758584228392,Champions ESG,-36,0.92,1,0.37
+Particulier,Pays-Bas,134.95,Équilibré,Premium,0.3833906768005215,À potentiel latent,6,0.18,0,0.27
+Particulier,Pays-Bas,100.52,Équilibré,Core,0.47021096253070765,À potentiel latent,46,0.21,0,0.23
+Institutionnel,Pays-Bas,2.31,Équilibré,Core,0.5168128840940349,À potentiel latent,36,0.01,0,0.32
+Institutionnel,Italie,1.34,Dynamique,Core,0.45392351112630486,À potentiel latent,54,0.01,0,0.9
+Family Office,Espagne,23.62,Dynamique,Core,0.2541127815364556,Clients à convaincre,61,0.83,0,0.08
+Institutionnel,Allemagne,83.18,Dynamique,Stratégique,0.6281659524737047,Clients à convaincre,71,0.73,0,0.83
+Institutionnel,Italie,218.21,Prudent,Premium,0.38845939832886794,À potentiel latent,95,0.36,0,0.35
+Particulier,Pays-Bas,8.15,Équilibré,Core,0.4779108305573886,Clients à convaincre,-1,0.7,0,0.52
+Family Office,France,45.09,Dynamique,Premium,0.6499594857810674,Champions ESG,-19,0.4,1,0.79
+Institutionnel,Pays-Bas,23.97,Prudent,Core,0.7636496108377124,Champions ESG,42,0.95,1,0.88
+Particulier,Espagne,175.19,Prudent,Premium,0.5880045077633702,Champions ESG,-50,0.97,1,0.34
+Particulier,Pays-Bas,92.3,Équilibré,Premium,0.4283441164545288,À potentiel latent,40,0.39,0,0.46
+Institutionnel,France,91.11,Équilibré,Core,0.39478575403671395,Clients à convaincre,-18,0.85,0,0.41
+Particulier,Espagne,31.62,Dynamique,Core,0.23554625823839473,Clients à convaincre,76,0.77,0,0.01
+Institutionnel,Pays-Bas,26.79,Prudent,Core,0.44011627564933253,À potentiel latent,97,0.31,0,0.3
+Particulier,Espagne,15.97,Équilibré,Core,0.583292281150871,À potentiel latent,11,0.23,0,0.46
+Particulier,Allemagne,2.9,Prudent,Premium,0.36564936438151424,À potentiel latent,-45,0.46,0,0.41
+Particulier,Allemagne,100.02,Prudent,Core,0.4081402852531741,Clients à convaincre,78,0.78,0,0.72
+Institutionnel,Pays-Bas,83.81,Prudent,Core,0.531576822782093,Clients à convaincre,64,0.96,0,0.38
+Family Office,Espagne,408.62,Dynamique,Premium,0.4772269702583021,Champions ESG,44,0.76,1,0.49
+Institutionnel,France,284.74,Équilibré,Stratégique,0.3056900813305455,Clients à convaincre,85,0.86,0,0.43
+Institutionnel,Pays-Bas,40.53,Équilibré,Core,0.4225858144582336,Champions ESG,56,0.6,1,0.74
+Institutionnel,Allemagne,73.26,Équilibré,Core,0.6090892807454108,Clients à convaincre,60,0.84,0,0.86
+Particulier,Allemagne,144.81,Dynamique,Core,0.38467035290937573,Clients à convaincre,-41,0.78,0,0.53
+Particulier,Pays-Bas,94.74,Équilibré,Core,0.5245392183363412,À potentiel latent,19,0.38,0,0.79
+Institutionnel,Espagne,14.21,Dynamique,Stratégique,0.4831398996684766,Clients à convaincre,82,0.55,0,0.3
+Particulier,Allemagne,29.94,Équilibré,Core,0.4896839278757861,Clients à convaincre,37,0.8,0,0.54
+Institutionnel,Espagne,6.91,Équilibré,Core,0.5507574354245008,À potentiel latent,74,0.05,0,0.35
+Particulier,Allemagne,154.01,Équilibré,Core,0.7601801038296112,Clients à convaincre,-78,0.81,0,0.41
+Institutionnel,Allemagne,46.59,Équilibré,Core,0.3707070868082333,À potentiel latent,48,0.18,0,0.73
+Particulier,Italie,12.98,Équilibré,Premium,0.5690590183093105,À potentiel latent,-88,0.51,0,0.88
+Institutionnel,Allemagne,55.69,Équilibré,Premium,0.6121760412774382,Champions ESG,0,0.81,1,0.12
+Family Office,France,48.13,Prudent,Core,0.3791072362719922,À potentiel latent,60,0.25,0,0.63
+Institutionnel,Pays-Bas,22.17,Dynamique,Core,0.8614872717298839,À potentiel latent,-77,0.25,0,0.58
+Institutionnel,Pays-Bas,6.03,Équilibré,Core,0.44777988678915276,À potentiel latent,7,0.4,0,0.12
+Institutionnel,Espagne,55.67,Équilibré,Stratégique,0.3261844048877829,Clients à convaincre,-90,0.89,0,0.21
+Family Office,Allemagne,36.73,Dynamique,Premium,0.6060462343877948,À potentiel latent,-84,0.0,0,0.31
+Family Office,France,73.99,Équilibré,Core,0.6218324177353061,Clients à convaincre,95,0.9,0,0.17
+Institutionnel,Espagne,36.72,Prudent,Premium,0.6343866221985482,Champions ESG,74,0.15,1,0.24
+Particulier,Italie,95.59,Dynamique,Premium,0.6653366949428778,Clients à convaincre,-76,0.99,0,0.27
+Family Office,Espagne,40.14,Équilibré,Core,0.7110320790567882,Champions ESG,-7,0.95,1,0.34
+Particulier,Espagne,41.16,Équilibré,Stratégique,0.2997564138238077,Champions ESG,-80,0.49,1,0.75
+Particulier,Allemagne,104.64,Prudent,Core,0.7757069993560338,À potentiel latent,-17,0.51,0,0.57
+Institutionnel,Italie,25.83,Équilibré,Core,0.6667246289244174,À potentiel latent,39,0.48,0,0.99
+Institutionnel,Espagne,7.19,Équilibré,Core,0.5511631420780233,Champions ESG,-64,0.64,1,0.41
+Family Office,France,1.46,Équilibré,Core,0.4035375607196521,À potentiel latent,-59,0.09,0,0.75
+Family Office,France,70.35,Dynamique,Core,0.7296070971434931,À potentiel latent,44,0.03,0,0.87
+Particulier,Pays-Bas,48.42,Équilibré,Premium,0.2558605415676204,Champions ESG,0,0.06,1,0.68
+Institutionnel,Italie,60.88,Prudent,Core,0.5695824515236558,À potentiel latent,-53,0.44,0,0.41
+Institutionnel,Italie,11.97,Équilibré,Premium,0.4706316036348315,À potentiel latent,2,0.28,0,0.75
+Particulier,Pays-Bas,7.33,Prudent,Core,0.16329381553946082,Clients à convaincre,-73,0.62,0,0.2
+Family Office,Espagne,0.73,Équilibré,Core,0.5804757240644601,Clients à convaincre,-60,0.99,0,0.33
+Family Office,Italie,21.58,Prudent,Core,0.2980189254509751,À potentiel latent,-2,0.39,0,0.55
+Particulier,France,44.57,Équilibré,Core,0.533174995826145,Clients à convaincre,-54,0.57,0,0.58
