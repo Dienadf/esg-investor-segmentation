@@ -55,7 +55,6 @@ Trois segments principaux émergent de l’analyse :
 ## 🛠️ Stack
 - Python (pandas, scikit-learn, matplotlib)  
 - Jupyter/Colab  
-- Visualisation complémentaire possible dans Power BI  
 
 ---
 
