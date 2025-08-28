@@ -42,6 +42,14 @@ Trois segments principaux émergent de l’analyse :
   <img src="visuals/score_esg_vs_upsell.png" width="45%">
 </p>
 
+Légende (couleurs dans les graphiques) :
+
+🔴 Clients à convaincre → rouge
+
+🟠 À potentiel latent → orange
+
+🟢 Champions ESG → vert
+
 ---
 
 ## 📦 Outputs
